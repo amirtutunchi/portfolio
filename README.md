@@ -35,7 +35,7 @@ At TeleMedicX, I integrated the Zoom SDK into the iOS app, enabling users to sea
 
 # Education
 Bachelor's Degree in Computer Science from [University Name]
-Contact Information
-(Email)[mailto:amirbt@live.com]
+# Contact Information
+Email: [mailto:amirbt@live.com]
 LinkedIn: [https://www.linkedin.com/in/amirtutunchi/]
 Twitter: [https://twitter.com/amir_tutunchi]
